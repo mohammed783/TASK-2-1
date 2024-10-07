@@ -1,0 +1,146 @@
+/* body{
+    color: white;
+} */
+a{
+    text-decoration: none;
+}
+
+.container{
+    border: solid 1px gray ;
+    width: 70%;
+    margin: auto;
+}
+
+hr{
+    color: gray;
+    width: 95%;
+    margin: auto ; 
+    margin-top: 25px;
+}
+h2{
+    color:  808080;
+}
+.head{
+    background-color: 808080;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+.head .rocket{
+    margin-top: 10px;
+}
+
+.head .me{
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.head h2{
+    color: black;
+} 
+/* ////////////////////// */
+.Contact {
+  margin-left: 10px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.Contact_flex{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+.element{
+    display: flex;
+    justify-content: center;
+    background-color: 017aff;
+    width: 120px;
+    height: 30px;
+    padding: 30px;
+    margin-left: 5px;
+    align-items: center;
+    border-radius: 5%;
+    text-align: center;
+}
+.Contact .element p {
+    margin-left: 3px;
+}
+
+/* ////////////////////// */
+.Follow{
+    margin-bottom: 35px;
+    margin-left: 10px;
+}
+
+.Follow img{
+    margin-left: 10px;
+}
+/* /////////////////////////// */
+.Exp{
+    margin-left: 10px;
+}
+.Exp_flex{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+/* ///////////////// */
+.edu{
+    margin-left: 10px;
+}
+
+.edu_flex{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+
+/* ////////////// */
+.prog{
+    margin-left: 10px;
+}
+.prog_flex{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    width: 60%;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.prog .prog_flex .element{
+    margin-top: 5px;
+    margin-bottom: 2px;
+    width: 70px;
+}
+
+/* //////////// */
+.int{
+    margin-left: 10px;
+}
+
+.int_flex{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    width: 60%;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.int_flex .element{
+    width: 70px;
+}
+
